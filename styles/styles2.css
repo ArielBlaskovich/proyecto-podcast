@@ -91,7 +91,7 @@
   .container-polygon {
     clip-path: polygon(0 12%, 100% 0%, 100% 88%, 0% 100%);
     padding-top: 80px;
-    height: 960px;
+    height: 1100px;
   }
   h2 {
     font-size: 48px;
@@ -110,7 +110,9 @@
   }
   .img-cellphone {
     width: 30vw;
+    height: 660px;
     margin-left: 13%;
+    margin-top: 50px;
   }
   .section-venimos {
     width: 36.5vw;
